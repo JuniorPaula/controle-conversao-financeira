@@ -43,7 +43,7 @@
 				<a class="navbar-brand" href="<?= $BASE_URL ?>index.php">
 					<img src="<?php $BASE_URL  ?>assets/img/logo.png" width="50"  class="d-inline-block align-top" alt="">
 				</a>
-               <h4 class="text-uppercase"> Casa de Cambio Muito Dinherio </h4>
+               <h4 class="text-uppercase"> Casa de Cambio Muito Dinheiro </h4>
 			</div>
 		</nav>
     </header>    
